@@ -1,0 +1,7 @@
+
+/* this is only used for dev and for fixing CRA hot reloading */
+
+iframe {
+  pointer-events: none;
+}
+

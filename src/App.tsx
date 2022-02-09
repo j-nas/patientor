@@ -10,6 +10,9 @@ import { Patient } from "./types";
 import PatientListPage from "./PatientListPage";
 import PatientInfoPage from "./PatientInfoPage";
 
+import './App.css';
+
+
 const App = () => {
   const [, dispatch] = useStateValue();
   React.useEffect(() => {
